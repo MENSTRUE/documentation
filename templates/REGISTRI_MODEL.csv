@@ -1,0 +1,1 @@
+project_id,model_id,framework,arsitektur,checkpoint_name,format,size_bytes,sha256,source_notebook,commit_sha,dataset_version,preprocessing_ref,class_mapping_ref,metric_ref,storage_status,verified_download_url,backup_path,inference_test_status,license_notes
